@@ -25,4 +25,4 @@ def remove_strawberry(contacts)
   end
 end
 
-puts remove_strawberry(contacts)
+
